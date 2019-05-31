@@ -1,21 +1,9 @@
-# ddkt
+# VuePos
 
 > A Vue.js project
 
 ## Build Setup
 
-``` bash
-# install dependencies
-npm install
+技术胖网站：https://jspang.com/
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+此项目为技术胖vue快餐收银系统教学代码。部分代码变化是因为版本更新后代码更改。
